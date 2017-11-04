@@ -1,5 +1,5 @@
 # dynaamo
-name prabhat 1234
+name priyanshu
 
  id-b117014
 cse
